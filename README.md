@@ -1,1 +1,1 @@
-# Repositório de Exercícios de Projeto de Software
+# Repositório de Atividades de Projeto de Software
